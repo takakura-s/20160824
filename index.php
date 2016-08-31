@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h3>テスト６ for issue-#2(2)</h3>
+  <h3>テスト 20160830(1)</h3>
 </body>
 
 </html>
