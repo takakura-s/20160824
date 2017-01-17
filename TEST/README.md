@@ -1,8 +1,10 @@
-## all_object_create.sql ‚Ìì¬•û–@
+## all_object_create.sql ã®ä½œæˆæ–¹æ³•
 
-1. Microsoft SQL Server Management Studio ‚ğ‹N“®
-2. ‰º‹L‚Ì‘€ì‚ÅƒXƒNƒŠƒvƒg‰»‚·‚é
-![image](https://cloud.githubusercontent.com/assets/13266469/22005565/b876d9bc-dca7-11e6-8c21-22afc5136c1c.png)
-«
-![image](https://cloud.githubusercontent.com/assets/13266469/22005592/f1fba226-dca7-11e6-98a3-6227d98e73e7.png)
+1. Microsoft SQL Server Management Studio ã‚’èµ·å‹•
+2. ä¸‹è¨˜ã®æ“ä½œã§ã‚¹ã‚¯ãƒªãƒ—ãƒˆåŒ–ã™ã‚‹
+
+<img src="https://cloud.githubusercontent.com/assets/13266469/22005565/b876d9bc-dca7-11e6-8c21-22afc5136c1c.png" width="400"> Â 
+ã€€ã€€ã€€â†“  
+<img src="https://cloud.githubusercontent.com/assets/13266469/22005592/f1fba226-dca7-11e6-98a3-6227d98e73e7.png" width="400"> Â 
+ã€€ã€€ã€€â†“  
 
