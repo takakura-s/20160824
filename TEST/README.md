@@ -23,3 +23,8 @@ DBを右クリックして「タスク(T)」→「スクリプトの作成(E)...
 
 すべて成功であればOK    
 <img src="https://cloud.githubusercontent.com/assets/13266469/22005592/f1fba226-dca7-11e6-98a3-6227d98e73e7.png" width="400">
+
+3. all_object_create.sql をエディタで開いて次の編集を行う
+* 先頭から `CREATE SCHEMA [ebiadmin]` の行の手前までを削除
+* 末尾から `USE [master]` を含む行までを削除
+
