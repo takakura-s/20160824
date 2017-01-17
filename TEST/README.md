@@ -1,7 +1,7 @@
 ## all_object_create.sql の作成方法
 
-1. Microsoft SQL Server Management Studio を起動
-2. 下記の操作でDBのオブジェクト生成スクリプトを作成する
+１．Microsoft SQL Server Management Studio を起動
+２．下記の操作でDBのオブジェクト生成スクリプトを作成する
 
 DBを右クリックして「タスク(T)」→「スクリプトの作成(E)...」を選択する   
 <img src="https://cloud.githubusercontent.com/assets/13266469/22005565/b876d9bc-dca7-11e6-8c21-22afc5136c1c.png" width="400">
@@ -24,7 +24,7 @@ DBを右クリックして「タスク(T)」→「スクリプトの作成(E)...
 すべて成功であればOK    
 <img src="https://cloud.githubusercontent.com/assets/13266469/22005592/f1fba226-dca7-11e6-98a3-6227d98e73e7.png" width="400">
 
-3. all_object_create.sql をエディタで開いて次の編集を行う
+３．all_object_create.sql をエディタで開いて次の編集を行う
 * 先頭から `CREATE SCHEMA [ebiadmin]` の行の手前までを削除
 * 末尾から `USE [master]` を含む行までを削除
 
